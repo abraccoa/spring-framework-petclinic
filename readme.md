@@ -32,7 +32,7 @@ A similar setups is provided for MySql and PostgreSQL in case a persistent datab
 To run petclinic locally using persistent database, it is needed to run with profile defined in main pom.xml file.
 
 For MySQL database, it is needed to run with 'MySQL' profile defined in main pom.xml file.
-coucou
+
 ```
 ./mvnw tomcat7:run-war -P MySQL
 ```
@@ -150,3 +150,4 @@ For pull requests, editor preferences are available in the [editor config](.edit
 
 
 
+coucou
